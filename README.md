@@ -9,7 +9,8 @@
     * Java/Kotlin
     * XML
     * .gradle files
-Android Component
+    * Drawables
+* Android Component
 Activity
 Activity Lifecycle
 Tasks & Back Stack
