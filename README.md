@@ -1,8 +1,8 @@
 # Roadmap for Developers to learn Android App Development #
 
-* Programming
-  *Java
-  *Kotlin
+* Programming <br/>
+  *Java <br/>
+  *Kotlin <br/>
                   
 Programming
 Java
