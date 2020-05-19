@@ -1,4 +1,4 @@
-# Roadmap for Developers to learn Android App Development #
+# Roadmap for Android Developers #
 
 * Programming <br/>
   * Java <br/>
