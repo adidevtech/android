@@ -3,16 +3,12 @@
 * Programming <br/>
   * Java <br/>
   * Kotlin <br/>
-                  
-Programming
-Java
-Kotlin
-Android Studio
-Android Studio IDE Overview
-Project Structure
-Java/Kotlin
-XML
-.gradle files
+* Android Studio
+  * Android Studio IDE Overview
+  * Project Structure
+    * Java/Kotlin
+    * XML
+    * .gradle files
 Android Component
 Activity
 Activity Lifecycle
